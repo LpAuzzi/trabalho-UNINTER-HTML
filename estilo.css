@@ -1,0 +1,33 @@
+body{background-color: rgb(189, 241, 225);}
+
+h1{color: rgb(99, 20, 13);text-align: center;}
+
+p{font-size: 23px;text-align: justify;}
+
+.hobbies{list-style: disc; line-height: 30px;}
+
+.fmy{border-radius: 20px;height: 300px;} 
+
+.tabela { border: black; 
+  width: 30%; /* Ajuste a largura conforme necessário */
+  margin: 20px;
+  background-color: rgb(8, 8, 8);
+  color: rgb(8, 0, 1);
+}
+
+.tabela th,
+.tabela td {
+  border: 1px solid #111111; 
+  padding: 8px;
+  text-align: left;
+}
+
+.tabela img {
+  height: 250px;
+}
+
+    tr{background-color: rgb(216, 219, 12);}
+
+    a:hover{color: rgb(255, 38, 0);} 
+
+    
